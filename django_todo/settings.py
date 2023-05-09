@@ -127,3 +127,4 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 CSRF_TRUSTED_ORIGINS = ['https://8000-bfo1715-jwstodolist-fswt52ykui6.ws-eu96b.gitpod.io']
 CSRF_TRUSTED_ORIGINS = ['https://8000-bfo1715-jwstodolist-dkeyin5fh1b.ws-eu96b.gitpod.io']
+CSRF_TRUSTED_ORIGINS = ['https://8000-bfo1715-jwstodolist-qhni9ry7mbr.ws-eu96b.gitpod.io']
